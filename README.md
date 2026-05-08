@@ -17,7 +17,7 @@ When you work across multiple LLM tools on the same project, each one starts fre
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/context-pool.git
+git clone https://github.com/AhamadFalah/context-pool.git
 cd context-pool
 
 # Initialise a pool for your project
