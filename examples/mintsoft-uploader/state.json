@@ -1,0 +1,16 @@
+{
+  "last_agent": "kiro",
+  "last_updated": "2026-05-07T11:08:00+00:00",
+  "current_task": "stage-2-api-push",
+  "open_questions": [
+    "Does Mintsoft API rate-limit?",
+    "Do we need OAuth or is API-key auth fine for our use case?"
+  ],
+  "blockers": [],
+  "next_actions": [
+    "Read Mintsoft Swagger docs for POST /api/Order",
+    "Decide auth approach (API key vs OAuth)",
+    "Wire transform.to_mintsoft() output into a push function",
+    "Add a --dry-run flag so we can test without sending real orders"
+  ]
+}
